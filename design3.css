@@ -1,0 +1,34 @@
+body {
+background-color:lightblue; 
+background:url(pastel1.jpg)
+}
+
+
+body, html {
+  height: 100%;
+}
+
+@font-face {
+    font-family: "JMHTypewriter";
+    src: url('JMHTypewriter.otf');
+
+}
+div {
+    height: 200px;
+    width: 400px;
+    
+
+    position: fixed;
+    top: 49%;
+    left: 50%;
+    margin-top: -140px;
+    margin-left: -350px;
+} 
+h4 { 
+ position: fixed;
+    top: 49%;
+    left: 50%;
+    margin-top: -290px;
+    margin-left: -500px;
+
+}
